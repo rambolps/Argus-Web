@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "argus-2fa8a": {
+      "hosting": {
+        "Argus-Web": [
+          "argus-2fa8a"
+        ]
+      }
+    }
+  }
+}

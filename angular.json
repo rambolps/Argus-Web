@@ -123,9 +123,16 @@
               "devServerTarget": "Argus-Web:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }
   },
-  "defaultProject": "Argus-Web"
+  "defaultProject": "Argus-Web",
+  "cli": {
+    "analytics": "03e99227-9eb0-4a5b-beff-aa031b961508"
+  }
 }
